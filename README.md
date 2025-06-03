@@ -10,8 +10,8 @@ Atualmente estou focado em expandir meus conhecimentos em desenvolvimento de sof
 
 <div>
   <a href="https://github.com/marianosantts">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marianosantts&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianosantts&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marianosantts&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianosantts&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
